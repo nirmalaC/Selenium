@@ -1,0 +1,5 @@
+com\seleniumwebdriver\pageobject\GooleHomePage.class
+com\seleniumwebdriver\steps\Whens.class
+com\seleniumwebdriver\steps\Thens.class
+com\seleniumwebdriver\SerenityCucumberRunner.class
+com\seleniumwebdriver\steps\Givens.class
